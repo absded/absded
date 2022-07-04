@@ -1,8 +1,8 @@
-[![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=800)
+[![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=1200)
 <h1 align="center">Hi 👋, I'm ML/Guru</h1>
 <h3 align="center">A passionate about (ML-DP-AI-IDS-BC)</h3>
 
-<img aling="right" alt="DP/NN/ML/AI" width="400" src="https://apmonitor.com/do/uploads/Main/ai_overview.png">
+<img aling="right" alt="DP/NN/ML/AI" width="380" src="https://apmonitor.com/do/uploads/Main/ai_overview.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absded&label=Profile%20views&color=0e75b6&style=flat" alt="absded" /> </p>
 
