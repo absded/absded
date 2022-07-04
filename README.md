@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=1000)
+[![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=800)
 <h1 align="center">Hi 👋, I'm ML/Guru</h1>
 <h3 align="center">A passionate about (ML-DP-AI-IDS-BC)</h3>
 
@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on [ML/IDS](Coming Soon...)
 
-- 💬 Ask me about **ML/AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
