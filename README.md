@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=2000)
+[![MasterHead](https://img.freepik.com/free-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=1000)
 <h1 align="center">Hi 👋, I'm ML/Guru</h1>
 <h3 align="center">A passionate about (ML-DP-AI-IDS-BC)</h3>
 
