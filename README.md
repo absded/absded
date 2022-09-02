@@ -6,7 +6,6 @@ Cybersecurity & ML + Blockchain + Cloud
 
 I'm a tech enthusiast, and I love to solve problems. When I was a kid, I used to spend hours playing with my computer and coding games that other people made for me. I've always had a passion for learning new things and finding ways to apply them to everyday life. That's why I love working in the tech industry: it's all about taking something that exists and making it better.
 
-* 🌍  I'm based in Finand
 * 🧠  I'm learning Meta-Learning
 * 🤝  I'm open to collaborating on Cybersecurit and Network Monitoring, IDS, Blockchain, Cloud ( Azure, AWS )
 * ⚡  Learning
