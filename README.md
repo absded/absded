@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BlockSec
 ================================================================================================================================
 
-Cybersecurity & ML + Blockchain + Cloud
+Cybersecurity & ML + Blockchain + Cloud + Data Analyzer [Weka] + (KYC+ AML)
 ---------------------------------------
 
 I'm a tech enthusiast, and I love to solve problems. When I was a kid, I used to spend hours playing with my computer and coding games that other people made for me. I've always had a passion for learning new things and finding ways to apply them to everyday life. That's why I love working in the tech industry: it's all about taking something that exists and making it better.
