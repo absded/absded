@@ -15,7 +15,4 @@ I'm a tech enthusiast, and I love to solve problems. When I was a kid, I used to
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=BlockSec&icon=2&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
