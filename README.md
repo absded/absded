@@ -7,5 +7,3 @@ I'm a tech enthusiast, and I love to solve problems. When I was a kid, I used to
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
